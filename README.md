@@ -2,7 +2,7 @@
 
 Hey! I'm a passionate rookie on Robotics! 
 
-<a href="https://open.spotify.com/user/tgnx72evryjea0zt9e3xxfc8u" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/spotify.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://open.spotify.com/user/tgnx72evryjea0zt9e3xxfc8u" target="_blank"><img height="30" src="https://github.com/QUIlToT/QUIlToT/blob/main/spotify.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 **languages and tools:**  
 
