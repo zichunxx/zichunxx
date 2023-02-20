@@ -1,6 +1,9 @@
 <h2> Hungry and Humble </h2>
 
-:star2: Hey! :star2: I'm Zichun, a Ph.D. student of HIT. Mainly working on Robotics.
+<img src="https://badgen.net/badge/icon/ULSUM/black?icon=awesome&label" /> <img src="https://badgen.net/badge/icon/DOE/black?icon=awesome&label" /> 
+
+
+:star2: Hey! :star2: I'm Zichun, a Ph.D. student mainly working on Robotics.
 
 <code><img height="30" src="https://github.com/QUIlToT/QUIlToT/blob/main/pic/spotify.svg"></code>
 
@@ -16,6 +19,6 @@
 <code><img height="30" src="https://github.com/QUIlToT/QUIlToT/blob/main/pic/pycharm.svg"></code>
 
 
-**BTW**  
+**BTW:**  
 
 :two_hearts: I am deeply obsessed with my girlfriend Guoguo!!!
