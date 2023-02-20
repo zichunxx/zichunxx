@@ -1,6 +1,6 @@
 <h2> Hungry and Humble </h2>
 
-<img src="https://badgen.net/badge/icon/ULSUM/black?icon=awesome&label" /> <img src="https://badgen.net/badge/icon/DOE/black?icon=awesome&label" /> 
+<img src="https://badgen.net/badge/icon/ULSUM/black?icon=awesome&label" /> <img src="https://badgen.net/badge/icon/DOE/black?icon=https://github.com/QUIlToT/QUIlToT/blob/main/pic/docsdotrs.svg" /> 
 
 
 :star2: Hey! :star2: I'm Zichun, a Ph.D. student mainly working on Robotics.
