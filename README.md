@@ -1,6 +1,6 @@
 <h2> Hungry and Humble </h2>
 
-  :star2: Hey! :star2: I'm Zichun, a passionate rookie on Robotics!
+  :star2: Hey! :star2: I'm Zichun, a Ph.D. student of HIT. Mainly working on Robotics.
 
 <a href="https://open.spotify.com/user/tgnx72evryjea0zt9e3xxfc8u" target="_blank"><img height="30" src="https://github.com/QUIlToT/QUIlToT/blob/main/spotify.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
