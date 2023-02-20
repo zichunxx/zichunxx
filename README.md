@@ -1,3 +1,3 @@
 **Hungry and Humble**
 
-**An passionate rookie on Robotics**
+Hey! I'm a passionate rookie on Robotics.
