@@ -5,8 +5,12 @@
 
 :star2: Hey! :star2: I'm Zichun, a Ph.D. student mainly working on Robotics.
 
-<code><img height="30" src="https://github.com/QUIlToT/QUIlToT/blob/main/pic/spotify.svg"></code>
 
+**Chill:**  
+
+
+<a href="https://open.spotify.com/user/tgnx72evryjea0zt9e3xxfc8u" target="_blank"><img height="30" src="https://github.com/QUIlToT/QUIlToT/blob/main/pic/spotify.svg">
+ 
 
 **languages and tools:**  
 
