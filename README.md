@@ -3,6 +3,9 @@
 <img src="https://badgen.net/badge/icon/ULSUM/black?icon=awesome&label" /> <img src="https://custom-icon-badges.demolab.com/badge/-DOE-black?logo=docsdotrs&logoColor=white" /> 
 
 
+ <h2> :raised_hands: About me </h2>
+
+
 :star2: Hey! :star2: I'm Zichun, a Ph.D. student mainly working on Robotics.
 
 
@@ -26,3 +29,12 @@
 **BTW:**  
 
 :two_hearts: I am deeply obsessed with my girlfriend Guoguo!!!
+ 
+ 
+ 
+ <h2> :pushpin: Statistics </h2>
+ 
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=QUIlToT)](https://git.io/streak-stats)
+ 
+
+
