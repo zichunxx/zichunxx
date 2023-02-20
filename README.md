@@ -1,6 +1,6 @@
 <h2> Hungry and Humble </h2>
 
-Hey! I'm a passionate rookie on Robotics! 
+Hey! I'm Zichun, a passionate rookie on Robotics! 
 
 <a href="https://open.spotify.com/user/tgnx72evryjea0zt9e3xxfc8u" target="_blank"><img height="30" src="https://github.com/QUIlToT/QUIlToT/blob/main/spotify.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
