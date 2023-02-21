@@ -15,7 +15,7 @@
 <a href="https://open.spotify.com/user/tgnx72evryjea0zt9e3xxfc8u" target="_blank"><img height="30" src="https://github.com/QUIlToT/QUIlToT/blob/main/pic/spotify.svg">
  
 
-**languages and tools:**  
+**Languages & Tools:**  
 
 <code><img height="30" src="https://github.com/QUIlToT/QUIlToT/blob/main/pic/ros.svg"></code>
 <code><img height="30" src="https://github.com/QUIlToT/QUIlToT/blob/main/pic/cplusplus.svg"></code>
