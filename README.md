@@ -6,7 +6,7 @@
  <h2> :raised_hands: About me </h2>
 
 
-:star2: Hey! :star2: I'm Zichun, a Ph.D. student mainly working on Robotics.
+:star2: A Ph.D. student mainly working on Robotics. :star2:
 
 
 **Chill:**  
