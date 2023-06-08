@@ -6,7 +6,7 @@
  <h2> :raised_hands: About me </h2>
 
 
-:star2: A Ph.D. student mainly working on Robotics. :star2:
+:star2: Working on Robotics. :star2:
 
 
 **Chill:**  
@@ -24,17 +24,7 @@
 <code><img height="30" src="https://github.com/QUIlToT/QUIlToT/blob/main/pic/linux.svg"></code>
 <code><img height="30" src="https://github.com/QUIlToT/QUIlToT/blob/main/pic/clion.svg"></code>
 <code><img height="30" src="https://github.com/QUIlToT/QUIlToT/blob/main/pic/pycharm.svg"></code>
-
-
-**BTW:**  
-
-:two_hearts: I am deeply obsessed with my girlfriend Guoguo!!!
  
- 
- 
- <h2> :pushpin: Statistics </h2>
- 
- [![GitHub Streak](https://streak-stats.demolab.com/?user=QUIlToT)](https://git.io/streak-stats)
  
 
 
