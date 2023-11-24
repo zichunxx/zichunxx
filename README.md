@@ -24,7 +24,9 @@
 <code><img height="30" src="https://github.com/QUIlToT/QUIlToT/blob/main/pic/linux.svg"></code>
 <code><img height="30" src="https://github.com/QUIlToT/QUIlToT/blob/main/pic/clion.svg"></code>
 <code><img height="30" src="https://github.com/QUIlToT/QUIlToT/blob/main/pic/pycharm.svg"></code>
- 
+<code><img height="30" src="https://github.com/QUIlToT/QUIlToT/blob/main/pic/vscode-fill-svgrepo-com.svg"></code>
+<code><img height="30" src="https://github.com/QUIlToT/QUIlToT/blob/main/pic/docker-svgrepo-com.svg"></code>
+
  
 
 
