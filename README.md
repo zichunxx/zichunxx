@@ -1,6 +1,6 @@
 <h2> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=40&pause=1000&color=020202&center=true&vCenter=true&width=1000&height=60&lines=Hungry+and+Humble" alt="Typing SVG" /></a> </h2>
 
-<img src="https://badgen.net/badge/icon/ULSUM/black?icon=awesome&label" /> <img src="https://custom-icon-badges.demolab.com/badge/-DOE-black?logo=docsdotrs&logoColor=white" /> 
+<img src="https://badgen.net/badge/icon/ULSUM/black?icon=awesome&label" />
 
 
  <h2> :raised_hands: About me </h2>
